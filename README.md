@@ -11,7 +11,4 @@ In this repo you will find my project solution and any questions regarding this 
 can be directed to andreunsal@gmail.com.
 
 If you would like to see a preview of the application end result, see the PREVIEW.png file above (also shown below).
-<p align="center">
-  <img src="PREVIEW.png" width="350" title="hover text">
-</p>
-
+![alt tag](https://github.com/andrejandre/PdfToExcel/blob/master/PREVIEW.PNG "")
