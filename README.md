@@ -12,3 +12,6 @@ can be directed to andreunsal@gmail.com.
 
 If you would like to see a preview of the application end result, see the PREVIEW.png file above (also shown below).
 ![alt tag](https://github.com/andrejandre/PdfToExcel/blob/master/PREVIEW.PNG "")
+
+# Disclaimer
+This repository is no longer supported by myself. My public work and opinions are not representative of any organization related to my public works.
